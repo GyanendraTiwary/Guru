@@ -1,0 +1,13 @@
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Debug\guru.vcxproj.AssemblyReference.cache
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Debug\guru.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Debug\guru.login.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Debug\guru.vcxproj.GenerateResource.cache
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Debug\guru.MyForm.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Debug\guru.signin.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Debug\guru.studentsection.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\guru\guru\x64\Debug\guru.vcxproj.AssemblyReference.cache
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\guru\guru\x64\Debug\guru.login.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\guru\guru\x64\Debug\guru.MyForm.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\guru\guru\x64\Debug\guru.signin.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\guru\guru\x64\Debug\guru.studentsection.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\guru\guru\x64\Debug\guru.vcxproj.GenerateResource.cache

@@ -1,0 +1,9 @@
+﻿  login.cpp
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\login.h(488,20): warning C4101: 'e': unreferenced local variable
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\login.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.cpp
+  signin.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  login.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  guru.vcxproj -> C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\x64\Release\guru.exe

@@ -1,0 +1,6 @@
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Release\guru.vcxproj.AssemblyReference.cache
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Release\guru.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Release\guru.login.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Release\guru.MyForm.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Release\guru.signin.resources
+C:\Users\GYANENDRA TIWARI\OneDrive\Desktop\Everything\MITWPU\YEAR 2\SEM 3\OOPCJ\guru\guru\x64\Release\guru.vcxproj.GenerateResource.cache
